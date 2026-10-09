@@ -40,6 +40,14 @@
     "group_title": ""
   },
   {
+    "name": "上虞1新闻综合 (720p) [Not 24/7]",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8",
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group_title": ""
+  },
+  {
     "name": "福州广播电视台新闻综合频道 (FZTV-1) (1080p)",
     "url": "http://live.zohi.tv/video/s10001-fztv-1/index.m3u8",
     "tvg_id": "",
@@ -96,9 +104,9 @@
     "group_title": "央视频道"
   },
   {
-    "name": "Xinjiang TV 3",
-    "url": "http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8",
-    "tvg_id": "XinjiangTV3.cn@SD",
+    "name": "QTV-3",
+    "url": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8",
+    "tvg_id": "QTV3.cn@SD",
     "tvg_name": "",
     "tvg_logo": "",
     "group_title": ""
@@ -121,8 +129,24 @@
   },
   {
     "name": "Xinjiang TV 3",
+    "url": "http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8",
+    "tvg_id": "XinjiangTV3.cn@SD",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group_title": ""
+  },
+  {
+    "name": "Xinjiang TV 3",
     "url": "https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8",
     "tvg_id": "XinjiangTV3.cn@SD",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group_title": ""
+  },
+  {
+    "name": "上虞3新商都 (720p) [Not 24/7]",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8",
+    "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group_title": ""
@@ -155,6 +179,14 @@
     "name": "QTV-4",
     "url": "http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8",
     "tvg_id": "QTV4.cn@SD",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group_title": ""
+  },
+  {
+    "name": "QTV-5",
+    "url": "http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8",
+    "tvg_id": "QTV5.cn@SD",
     "tvg_name": "",
     "tvg_logo": "",
     "group_title": ""
@@ -363,14 +395,6 @@
     "name": "鹤壁新闻综合 (480p) [Not 24/7]",
     "url": "http://pili-live-hls.hebitv.com/hebi/hebi.m3u8",
     "tvg_id": "HebiNewsChannel.cn@SD",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group_title": ""
-  },
-  {
-    "name": "河源综合 (540p)",
-    "url": "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8",
-    "tvg_id": "",
     "tvg_name": "",
     "tvg_logo": "",
     "group_title": ""
@@ -624,6 +648,14 @@
     "group_title": ""
   },
   {
+    "name": "上虞經濟文化 (720p) [Not 24/7]",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8",
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group_title": ""
+  },
+  {
     "name": "家有购物 (720p) [Not 24/7]",
     "url": "http://183.207.248.71/cntv/live1/SD-1500k-576P-jiayougw/SD-1500k-576P-jiayougw",
     "tvg_id": "",
@@ -824,6 +856,14 @@
     "group_title": ""
   },
   {
+    "name": "新昌休闲影视 (1080p) [Not 24/7]",
+    "url": "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8",
+    "tvg_id": "",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group_title": ""
+  },
+  {
     "name": "新昌新聞綜合 (1080p) [Not 24/7]",
     "url": "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8",
     "tvg_id": "",
@@ -944,14 +984,6 @@
     "group_title": "央视频道"
   },
   {
-    "name": "CND Film Middle School Channel",
-    "url": "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8",
-    "tvg_id": "CNDFilmMiddleSchoolChannel.cn@SD",
-    "tvg_name": "",
-    "tvg_logo": "",
-    "group_title": ""
-  },
-  {
     "name": "Chaozhou Public Channel",
     "url": "http://113.64.146.48:1688/hls/4/index.m3u8",
     "tvg_id": "ChaozhouPublicChannel.cn@SD",
@@ -1000,6 +1032,14 @@
     "group_title": ""
   },
   {
+    "name": "Guangzhou TV",
+    "url": "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8",
+    "tvg_id": "GuangzhouTV.cn@SD",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group_title": ""
+  },
+  {
     "name": "Harbin Comprehensive News Channel",
     "url": "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594",
     "tvg_id": "HarbinComprehensiveNewsChannel.cn@SD",
@@ -1035,6 +1075,22 @@
     "name": "Kangba TV",
     "url": "http://110.185.237.164:8888/hls/30/index.m3u8",
     "tvg_id": "KangbaTV.cn@SD",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group_title": ""
+  },
+  {
+    "name": "Lanzhou Comprehensive News Channel",
+    "url": "https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8",
+    "tvg_id": "LanzhouComprehensiveNewsChannel.cn@SD",
+    "tvg_name": "",
+    "tvg_logo": "",
+    "group_title": ""
+  },
+  {
+    "name": "Lanzhou Culture & Tourism Channel",
+    "url": "https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8",
+    "tvg_id": "LanzhouCultureTourismChannel.cn@SD",
     "tvg_name": "",
     "tvg_logo": "",
     "group_title": ""
